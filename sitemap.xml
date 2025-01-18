@@ -12,12 +12,32 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/lcbo/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/lcbo-2/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/lcbo-3/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/
         </loc>
     </url>
     <url>
         <loc>
             http://localhost:8000/sample-page/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/main-tables/
         </loc>
     </url>
     <url>
